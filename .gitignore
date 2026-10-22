@@ -1,0 +1,50 @@
+# Archivos compilados Java
+
+*.class
+
+
+# Directorio de compilación
+
+bin/
+
+out/
+
+target/
+
+build/
+
+
+# Logs
+
+*.log
+
+
+# IntelliJ IDEA
+
+.idea/
+
+*.iml
+
+
+# Visual Studio Code
+
+.vscode/
+
+
+# NetBeans
+
+nbproject/private/
+
+
+# Archivos del sistema operativo
+
+.DS_Store
+
+Thumbs.db
+
+
+# Archivos temporales
+
+*.tmp
+
+*.swp
