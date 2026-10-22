@@ -82,9 +82,9 @@ Este repositorio tiene fines educativos y documenta mi proceso de aprendizaje en
 
 ## 👨‍💻 Autor
 
-**Emmanuel**
+**Emmanuel Silano**
 
-Estudiante de desarrollo de software y entusiasta de la programación.
+Entusiasta de la programación.
 
 ---
 ⭐ Si estás realizando el mismo curso, siéntete libre de explorar las soluciones y comparar enfoques de implementación.
