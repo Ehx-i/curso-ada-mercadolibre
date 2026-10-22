@@ -1,4 +1,4 @@
-package ejercicios.calculadora_notas;
+package modulo1.ejercicios.calculadora_notas;
 import java.util.Scanner;
 
 public class Main {

@@ -1,8 +1,8 @@
-package ejercicios.calculadora;
-import ejercicios.calculadora.utils.CalculatorImpl;
-import ejercicios.calculadora.utils.InputCalculator;
-import ejercicios.calculadora.utils.OperationsCalculator;
-import ejercicios.calculadora.utils.OutputCalculator;
+package modulo1.ejercicios.calculadora;
+import modulo1.ejercicios.calculadora.utils.CalculatorImpl;
+import modulo1.ejercicios.calculadora.utils.InputCalculator;
+import modulo1.ejercicios.calculadora.utils.OperationsCalculator;
+import modulo1.ejercicios.calculadora.utils.OutputCalculator;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package ejercicios.calculadora.utils;
+package modulo1.ejercicios.calculadora.utils;
 
 import java.util.Scanner;
 
