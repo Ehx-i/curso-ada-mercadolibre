@@ -1,6 +1,6 @@
 package modulo2.agenda;
 
-public interface IAddressBookDTO {
+public interface IAddressBookDAO {
 
 	
 	public boolean addContact(Person person);

@@ -1,7 +1,7 @@
 package modulo2.agenda;
 import java.util.Arrays;
 
-public class AddressBook implements IAddressBookDTO {
+public class AddressBook implements IAddressBookDAO {
 
 	private Person[] contactList;
 	private String[] favorite;
